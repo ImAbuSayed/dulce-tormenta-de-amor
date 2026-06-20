@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce tormenta de amor, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Dulce tormenta de amor, Vol. 2** (dulce-tormenta-de-amor-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T01:05:44.307804 | `v1` | `bef828592366930d078bfb9507bf87b468dbaea7c97345fb217d7123552f78a5` | `5a0719842a08a7d681127947465458233a8d0811559ffae4d5d572c7eaa52a5e` | `2026-06-21_dulce-tormenta-de-amor-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
